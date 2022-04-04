@@ -19,6 +19,8 @@ body {
   border: none;
   padding: 0 20px;
   box-sizing: border-box;
+  border-radius: 30px;
+  margin-bottom: 5px;
 }
 
 .calculator-keys {
@@ -37,6 +39,8 @@ button {
   color: #fff;
   width: 25%;
   outline: none;
+  border-radius: 20px;
+  margin: 3px 3px;
 }
 
 .all-clear,
